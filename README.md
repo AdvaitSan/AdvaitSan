@@ -54,7 +54,7 @@ A React-based educational tool for simulating dynamic programming with interacti
 
 ---
 
-> “The future is independent of the past given the present.” — *Markov Property*
+> “The future is independent of the past given the present.”
 
 ---
 
