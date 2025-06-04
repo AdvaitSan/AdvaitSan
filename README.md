@@ -22,20 +22,23 @@ Docker • Redis • AWS • Git/GitHub • MongoDB • MySQL • Firestore • 
 
 ### 🌟 Featured Projects
 
-#### 🚀 Relief+  
-A blockchain-based crowdfunding platform for war-torn regions using Solana, Rust, and React.js.
+#### 🚀 [Relief+](https://github.com/AdvaitSan/Relief-Plus)  
+A **blockchain-based crowdfunding platform** designed to support war-affected communities. Built using **Solana**, **Rust**, and **React.js** for secure, transparent fundraising.
 
-#### 🛋️ Rachana  
-An AI-powered home décor simulator using generative AI and Three.js to help users visualize rooms.
+#### 💫 [Global Progress Spinners](https://github.com/AdvaitSan/Global-Progress-Spinners)  
+An **Angular.js library** providing customizable loaders, global HTTP interceptors, and centralized error handling for seamless UX enhancement in SPAs.
 
-#### 🛒 E-Commerce Platform  
-A scalable Spring Boot + Microservice backend application with product management and ordering system.
+#### 📜 [JavaInterpreter](https://github.com/AdvaitSan/JavaInterpreter)  
+A **lightweight Java-based interpreter** for a custom simple programming language, demonstrating lexical analysis, parsing, AST construction, and code evaluation with support for variables, arithmetic, conditionals, and loops.
 
-#### 💫 Global Progress Spinners  
-An Angular.js UX-enhancing library for loaders and centralized error handling.
+#### 🛋️ [Rachana](https://github.com/AdvaitSan/Rachana)  
+An **AI-powered home décor simulator** using **Generative AI** and **Three.js** to allow users to virtually decorate and visualize interior spaces in real-time.
 
-#### 🧮 Visual DSA Whiteboard  
-A React-based educational tool for simulating dynamic programming with interactive array logic.
+#### 🛒 [E-Commerce Microservices](https://github.com/AdvaitSan/E-Commerce-Microservices)  
+A **scalable backend system** built using **Java Spring Boot** and a **microservice architecture**, featuring product, user, and order services with Dockerized deployment and Redis caching.
+
+#### 🎨 [Visual DSA Whiteboard](https://github.com/AdvaitSan/Visual-DSA-Whiteboard)  
+An **interactive React app** for visualizing dynamic programming and array operations with an Excel-like interface. Ideal for CS students learning DSA.
 
 ---
 
