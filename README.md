@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Advait Sankhe!
 
-I'm a **Web Developer**, **Java Developer**, and **AI/ML enthusiast** pursuing a B.Tech in CSE (Data Science) at DJSCE (2026). I love crafting full-stack apps with sleek frontends, scalable microservices, and meaningful AI/ML integrations.
+I'm a **Web Developer**, **Java Developer**, and **AI/ML enthusiast** pursuing a B.Tech in CSE (Data Science) at DJSCE (2026). I love crafting full-stack apps, scalable microservices, and meaningful AI/ML integrations.
 
 ---
 
